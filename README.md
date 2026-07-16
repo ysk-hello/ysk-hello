@@ -12,5 +12,9 @@
 
 👉 **[Amazon著者セントラルはこちら](https://www.amazon.co.jp/stores/ysk-hello/author/B0H8SHL78T)**
 
+#### ✍️ Technical Writing & Output
+- **Qiita:** 最新の技術検証などのTipsを発信中。
+  * 🔗 **[Qiitaプロフィール](https://qiita.com/ysk-hello)**
+
 ### 🚀 Technologies
 `C#` `WinUI 3` `.NET` `SQLite` `Entity Framework Core`
