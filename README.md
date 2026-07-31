@@ -10,6 +10,7 @@
 - [📗 C# WinUI 3 デスクトップアプリ開発 完全ガイド](https://www.amazon.co.jp/dp/B0H6WFV4KV)
 - [📗 Claude CodeでWinUIアプリをつくる: WinUI Agent PluginとGitHubで実践する、AI駆動のWindowsデスクトップアプリ開発](https://www.amazon.co.jp/dp/B0HC7J9VNR)
 - [📗 Building Desktop Apps with C# and WinUI 3: The Complete Guide: Learn from the Ground Up to Distribution by Building a To-Do App](https://www.amazon.com/dp/B0H9LXM612)
+- [📗 Building WinUI Apps with Claude Code: AI-Driven Windows Desktop Development with the WinUI Agent Plugin and GitHub](https://www.amazon.com/dp/B0HCBP5CG4)
 #### Entity Framework Core
 - [📗 動かして学ぶ Entity Framework Core（EF Core）実践入門: C#／.NET のデータアクセスを基礎からパフォーマンス改善まで](https://www.amazon.co.jp/dp/B0H8PLJD3D)
 #### Web
